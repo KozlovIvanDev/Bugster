@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756667754792",
+    "project_id": "bugster-platform",
+    "storage_bucket": "bugster-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756667754792:android:a7c56bda8c2eeef281481d",
+        "android_client_info": {
+          "package_name": "com.example.bugster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756667754792-hgmvga4g20mqfloenaarbte2226gohje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuOj_ZRBEzAX6IF6vfCrSa0DCZ3pdnOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756667754792-hgmvga4g20mqfloenaarbte2226gohje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
